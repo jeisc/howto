@@ -9,6 +9,6 @@ $code = highlight_string('
 ?>',1);
 echo $code;
 
-echo phpinfo();
+//echo phpinfo();
 ?>
 
