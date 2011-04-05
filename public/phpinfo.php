@@ -1,5 +1,5 @@
 <?php
-
-    phpinfo();
+// u id did not see this
+ //   phpinfo();
 
 ?>
